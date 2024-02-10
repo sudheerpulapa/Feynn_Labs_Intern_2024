@@ -1,0 +1,340 @@
+UDI,Product ID,Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Target,Failure Type,is_failure,failure_type
+51,L47230,L,298.9,309.1,2861,4.6,143,1,Power Failure,1,Power Failure
+70,L47249,L,298.9,309.0,1410,65.7,191,1,Power Failure,1,Power Failure
+78,L47257,L,298.8,308.9,1455,41.3,208,1,Tool Wear Failure,1,Tool Wear Failure
+161,L47340,L,298.4,308.2,1282,60.7,216,1,Overstrain Failure,1,Overstrain Failure
+162,L47341,L,298.3,308.1,1412,52.3,218,1,Overstrain Failure,1,Overstrain Failure
+169,L47348,L,298.4,308.3,1433,62.3,20,1,Power Failure,1,Power Failure
+195,M15054,M,298.2,308.5,2678,10.7,86,1,Power Failure,1,Power Failure
+208,M15067,M,298.4,308.7,1421,60.7,119,1,Power Failure,1,Power Failure
+243,L47422,L,298.0,308.2,1348,58.8,202,1,Overstrain Failure,1,Overstrain Failure
+249,L47428,L,298.0,308.3,1362,56.8,216,1,Overstrain Failure,1,Overstrain Failure
+250,L47429,L,298.0,308.3,1405,56.2,218,1,Overstrain Failure,1,Overstrain Failure
+260,M15119,M,298.1,308.2,1420,63.9,19,1,Power Failure,1,Power Failure
+328,L47507,L,297.7,308.5,1373,56.7,203,1,Overstrain Failure,1,Overstrain Failure
+381,L47560,L,297.5,308.3,2564,12.8,127,1,Power Failure,1,Power Failure
+443,L47622,L,297.4,308.5,1399,61.5,61,1,Power Failure,1,Power Failure
+464,L47643,L,297.4,308.7,2874,4.2,118,1,Power Failure,1,Power Failure
+587,L47766,L,297.6,309.6,1501,49.8,222,1,Overstrain Failure,1,Overstrain Failure
+604,L47783,L,297.9,309.8,1336,71.6,31,1,Power Failure,1,Power Failure
+747,L47926,L,296.8,308.1,1289,62.0,199,1,Overstrain Failure,1,Overstrain Failure
+848,L48027,L,296.4,307.4,2833,5.6,213,1,Power Failure,1,Power Failure
+881,M15740,M,295.8,306.3,1235,76.2,89,1,Power Failure,1,Power Failure
+904,L48083,L,295.7,306.2,2270,14.6,149,1,Power Failure,1,Power Failure
+927,L48106,L,295.6,306.1,1372,55.6,215,1,Overstrain Failure,1,Overstrain Failure
+1017,M15876,M,296.3,307.2,1319,68.3,24,1,Power Failure,1,Power Failure
+1086,L48265,L,297.0,307.8,1385,56.4,202,1,Overstrain Failure,1,Overstrain Failure
+1088,H30501,H,296.9,307.8,1549,35.8,206,1,Tool Wear Failure,1,Tool Wear Failure
+1096,L48275,L,296.9,307.5,2721,9.3,18,1,Power Failure,1,Power Failure
+1124,H30537,H,296.6,307.7,1386,62.3,100,1,Power Failure,1,Power Failure
+1125,M15984,M,296.7,307.8,1258,69.0,105,1,Power Failure,1,Power Failure
+1145,L48324,L,297.0,307.9,1296,69.1,153,1,Power Failure,1,Power Failure
+1162,L48341,L,297.0,307.8,1316,61.2,200,1,Overstrain Failure,1,Overstrain Failure
+1163,L48342,L,296.9,307.8,1400,57.1,202,1,Overstrain Failure,1,Overstrain Failure
+1168,L48347,L,297.0,308.1,1362,52.5,213,1,Overstrain Failure,1,Overstrain Failure
+1285,L48464,L,298.4,309.5,2153,15.3,98,1,Power Failure,1,Power Failure
+1325,M16184,M,298.8,310.1,1243,74.5,194,1,Power Failure,1,Power Failure
+1335,L48514,L,299.0,310.4,1365,49.1,226,1,Overstrain Failure,1,Overstrain Failure
+1336,L48515,L,299.0,310.4,1371,53.8,228,1,Overstrain Failure,1,Overstrain Failure
+1392,L48571,L,298.9,310.2,2737,8.8,142,1,Power Failure,1,Power Failure
+1420,L48599,L,298.7,309.8,1354,53.3,212,1,Overstrain Failure,1,Overstrain Failure
+1438,H30851,H,298.8,309.9,1439,45.2,40,1,No Failure,1,No Failure
+1493,M16352,M,298.0,308.7,1479,58.5,176,1,Power Failure,1,Power Failure
+1497,L48676,L,298.0,308.7,1268,69.4,189,1,Power Failure,1,Power Failure
+1510,L48689,L,298.0,308.5,1429,37.7,220,1,Tool Wear Failure,1,Tool Wear Failure
+1584,L48763,L,298.2,308.4,1310,61.0,189,1,Overstrain Failure,1,Overstrain Failure
+1596,L48775,L,298.0,308.2,1365,52.9,218,1,Overstrain Failure,1,Overstrain Failure
+1683,H31096,H,297.9,307.4,1604,36.1,225,1,Tool Wear Failure,1,Tool Wear Failure
+1764,L48943,L,298.2,307.6,1511,31.0,209,1,Tool Wear Failure,1,Tool Wear Failure
+1785,L48964,L,298.3,308.0,2886,3.8,57,1,Power Failure,1,Power Failure
+1790,L48969,L,298.2,307.9,1313,67.3,67,1,Power Failure,1,Power Failure
+1809,L48988,L,298.1,307.7,2567,12.8,125,1,Power Failure,1,Power Failure
+1834,L49013,L,297.8,307.3,1327,61.0,186,1,Overstrain Failure,1,Overstrain Failure
+1997,M16856,M,298.4,308.0,1416,38.2,198,1,Tool Wear Failure,1,Tool Wear Failure
+2016,L49195,L,298.5,308.2,1301,66.3,42,1,Power Failure,1,Power Failure
+2076,L49255,L,299.5,309.4,1390,58.8,195,1,Overstrain Failure,1,Overstrain Failure
+2126,L49305,L,299.3,308.9,1258,69.4,119,1,Power Failure,1,Power Failure
+2167,M17026,M,299.6,309.2,1867,23.4,225,1,Tool Wear Failure,1,Tool Wear Failure
+2234,L49413,L,299.5,308.7,2549,13.0,179,1,Power Failure,1,Power Failure
+2245,M17104,M,299.3,308.4,1542,37.5,203,1,Tool Wear Failure,1,Tool Wear Failure
+2300,L49479,L,299.4,308.7,1446,62.9,134,1,Power Failure,1,Power Failure
+2332,L49511,L,299.3,308.6,1384,53.6,218,1,Overstrain Failure,1,Overstrain Failure
+2333,L49512,L,299.2,308.5,1378,50.4,220,1,Overstrain Failure,1,Overstrain Failure
+2427,M17286,M,298.9,308.2,1372,63.6,30,1,Power Failure,1,Power Failure
+2445,L49624,L,299.2,308.6,1267,68.2,76,1,Power Failure,1,Power Failure
+2495,L49674,L,299.1,308.8,1329,53.6,207,1,Overstrain Failure,1,Overstrain Failure
+2503,L49682,L,299.2,309.0,1515,48.9,228,1,Overstrain Failure,1,Overstrain Failure
+2582,L49761,L,299.2,309.1,1345,60.7,191,1,Overstrain Failure,1,Overstrain Failure
+2599,L49778,L,299.1,308.8,1320,67.5,20,1,Power Failure,1,Power Failure
+2672,M17531,M,299.7,309.3,1399,41.9,221,1,Tool Wear Failure,1,Tool Wear Failure
+2750,M17609,M,299.7,309.2,1685,28.9,179,1,No Failure,1,No Failure
+2762,L49941,L,299.8,309.3,1299,65.1,212,1,Overstrain Failure,1,Overstrain Failure
+2859,L50038,L,300.5,309.3,1417,51.5,231,1,Overstrain Failure,1,Overstrain Failure
+2865,H32278,H,300.6,309.4,1380,47.6,246,1,Tool Wear Failure,1,Tool Wear Failure
+2880,M17739,M,300.6,309.4,1367,63.2,45,1,Power Failure,1,Power Failure
+2942,M17801,M,300.7,309.6,1996,19.8,203,1,Tool Wear Failure,1,Tool Wear Failure
+3001,H32414,H,300.5,309.8,1324,72.8,159,1,Power Failure,1,Power Failure
+3020,L50199,L,300.5,309.8,1379,54.2,207,1,Overstrain Failure,1,Overstrain Failure
+3141,H32554,H,300.4,309.9,2563,12.8,81,1,Power Failure,1,Power Failure
+3237,M18096,M,300.8,309.4,1342,62.4,113,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+3267,L50446,L,301.3,310.1,1269,56.8,195,1,Overstrain Failure,1,Overstrain Failure
+3351,L50530,L,301.4,310.8,1285,62.6,183,1,Overstrain Failure,1,Overstrain Failure
+3357,L50536,L,301.6,310.8,1355,57.8,195,1,Overstrain Failure,1,Overstrain Failure
+3370,L50549,L,301.5,310.9,2760,8.0,15,1,Power Failure,1,Power Failure
+3458,M18317,M,301.5,310.4,2639,12.0,21,1,Power Failure,1,Power Failure
+3529,L50708,L,302.0,310.9,1378,53.1,212,1,Overstrain Failure,1,Overstrain Failure
+3530,L50709,L,301.9,310.9,1567,39.0,214,1,Tool Wear Failure,1,Tool Wear Failure
+3580,L50759,L,301.8,310.6,2672,11.8,124,1,Power Failure,1,Power Failure
+3612,L50791,L,301.7,310.9,1405,46.4,207,1,Tool Wear Failure,1,Tool Wear Failure
+3685,L50864,L,302.0,311.2,1270,65.3,182,1,Overstrain Failure,1,Overstrain Failure
+3696,L50875,L,302.2,311.3,1530,37.3,207,1,Tool Wear Failure,1,Tool Wear Failure
+3761,L50940,L,302.3,310.9,1377,46.8,166,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+3788,L50967,L,302.3,310.8,1377,47.3,22,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+3794,L50973,L,302.3,310.9,1379,49.3,34,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+3807,M18666,M,302.3,310.9,1360,44.0,67,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+3815,M18674,M,302.1,310.6,1326,59.1,88,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+3830,H33243,H,302.3,310.9,1366,48.4,130,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+3855,L51034,L,302.4,311.0,1338,67.6,194,1,Power Failure,1,Power Failure
+3866,H33279,H,302.6,311.5,1629,34.4,228,1,Tool Wear Failure,1,Tool Wear Failure
+3868,M18727,M,302.7,311.6,2709,9.7,2,1,Power Failure,1,Power Failure
+3929,L51108,L,302.6,311.5,1442,59.8,169,1,Power Failure,1,Power Failure
+3936,M18795,M,302.6,311.6,1227,68.2,187,1,Overstrain Failure,1,Overstrain Failure
+3944,L51123,L,302.3,311.4,1333,66.7,205,1,Power Failure,1,Power Failure
+4003,L51182,L,302.1,311.2,1454,59.2,153,1,Power Failure,1,Power Failure
+4025,M18884,M,302.1,311.0,1351,60.3,207,1,Overstrain Failure,1,Overstrain Failure
+4033,L51212,L,302.0,310.8,1383,50.3,231,1,Overstrain Failure,1,Overstrain Failure
+4035,L51214,L,302.0,310.8,1615,29.0,235,1,Tool Wear Failure,1,Tool Wear Failure
+4045,M18904,M,301.9,310.9,1419,47.7,20,1,No Failure,1,No Failure
+4049,L51228,L,301.9,311.0,2691,12.1,31,1,Power Failure,1,Power Failure
+4072,L51251,L,301.9,310.6,1331,68.6,85,1,Power Failure,1,Power Failure
+4079,H33492,H,302.1,310.7,1294,62.4,101,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4081,L51260,L,302.0,310.4,1357,58.0,108,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4082,L51261,L,302.0,310.4,1336,58.2,110,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4088,L51267,L,301.9,310.4,1376,54.9,126,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4097,L51276,L,301.9,310.4,1370,51.7,153,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4118,L51297,L,301.9,310.5,1340,55.7,204,1,Overstrain Failure,1,Overstrain Failure
+4120,L51299,L,302.1,310.7,1325,45.1,208,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4121,M18980,M,302.1,310.7,1376,46.3,210,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4122,M18981,M,302.1,310.7,1364,47.8,213,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4131,L51310,L,301.9,310.4,1286,62.8,22,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4139,L51318,L,301.7,310.2,1311,57.4,40,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4141,L51320,L,301.7,310.2,1331,61.2,47,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4152,M19011,M,301.9,310.4,1373,48.0,73,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4154,M19013,M,302.0,310.4,1212,55.6,79,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4156,L51335,L,302.0,310.5,1370,44.4,85,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4158,L51337,L,302.0,310.5,1263,60.6,90,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4165,L51344,L,302.2,310.6,1346,47.5,109,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4171,M19030,M,302.2,310.6,1355,51.5,126,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4174,M19033,M,302.2,310.6,1346,49.2,134,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4180,L51359,L,302.4,310.9,1349,46.1,148,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4183,L51362,L,302.4,310.7,1362,54.8,155,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4185,L51364,L,302.2,310.6,1334,53.2,159,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4186,L51365,L,302.2,310.6,1348,48.4,161,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4208,M19067,M,302.3,310.9,1710,30.4,218,1,Tool Wear Failure,1,Tool Wear Failure
+4212,L51391,L,302.1,310.7,1314,52.8,8,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4226,L51405,L,302.1,310.7,1359,49.3,41,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4248,L51427,L,302.6,311.0,1369,60.0,93,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4250,L51429,L,302.5,310.9,1330,56.9,97,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4252,H33665,H,302.5,310.9,1356,55.5,101,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4254,M19113,M,302.6,311.0,1329,48.6,111,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4255,L51434,L,302.6,311.0,1284,68.0,114,1,Power Failure,1,Power Failure
+4259,M19118,M,302.7,311.1,1297,60.7,125,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4271,L51450,L,302.6,310.9,1331,52.0,154,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4280,L51459,L,302.0,310.1,1361,45.4,174,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4283,L51462,L,301.9,309.9,1374,48.5,180,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4284,M19143,M,301.8,309.9,1334,61.0,182,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4286,L51465,L,301.7,309.9,1317,49.0,187,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4293,M19152,M,301.8,310.1,2372,13.9,205,1,Power Failure,1,Power Failure
+4297,L51476,L,301.8,310.2,2825,5.8,215,1,Power Failure,1,Power Failure
+4308,L51487,L,301.4,309.9,1259,63.9,20,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4324,L51503,L,301.8,310.3,1341,50.5,64,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4327,L51506,L,301.6,310.1,1362,55.8,70,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4329,L51508,L,301.6,310.1,1326,48.2,77,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4343,M19202,M,301.7,309.8,1284,68.2,111,1,Power Failure,1,Power Failure
+4354,M19213,M,302.0,309.7,1386,62.7,142,1,Power Failure,1,Power Failure
+4356,H33769,H,302.0,309.8,1280,57.3,147,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4362,M19221,M,302.1,310.1,1379,48.2,166,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4371,L51550,L,302.0,309.9,1308,57.6,197,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4384,L51563,L,301.7,309.5,1298,65.5,229,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4386,L51565,L,301.8,309.7,1442,45.3,233,1,Tool Wear Failure,1,Tool Wear Failure
+4390,M19249,M,302.1,310.0,1355,45.1,6,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4392,M19251,M,302.2,310.1,1368,51.6,12,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4401,L51580,L,302.3,310.1,1353,50.9,36,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4406,L51585,L,302.4,310.2,1331,45.5,53,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4407,L51586,L,302.5,310.3,1326,58.5,55,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4410,M19269,M,302.4,310.1,1358,54.6,61,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4418,L51597,L,302.6,310.4,1365,66.8,80,1,Power Failure,1,Power Failure
+4420,M19279,M,302.6,310.2,2676,10.8,84,1,Power Failure,1,Power Failure
+4422,L51601,L,302.6,310.2,1325,62.4,92,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4428,M19287,M,302.4,310.1,1379,48.9,107,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4436,L51615,L,302.3,310.1,1321,52.7,134,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4442,L51621,L,302.5,310.2,1329,50.6,148,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4449,L51628,L,302.4,310.3,1374,51.2,163,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4450,M19309,M,302.4,310.3,1378,54.3,165,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4463,L51642,L,302.7,310.5,1263,67.8,197,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4470,L51649,L,302.7,310.5,1446,40.9,211,1,Tool Wear Failure,1,Tool Wear Failure
+4476,L51655,L,302.7,310.5,1351,41.8,10,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4481,H33894,H,302.7,310.4,1305,55.2,20,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4496,L51675,L,302.6,310.4,1359,57.2,67,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4502,L51681,L,302.5,310.2,1307,54.0,86,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4511,L51690,L,302.4,310.2,1346,62.4,106,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4528,M19387,M,302.4,310.5,1372,45.7,144,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4534,M19393,M,302.4,310.3,1375,52.5,161,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4537,L51716,L,302.4,310.2,1351,45.1,168,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4545,L51724,L,302.5,310.4,1349,55.1,187,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4557,M19416,M,302.7,310.6,1349,51.2,6,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4559,L51738,L,302.7,310.7,1369,47.5,11,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4566,H33979,H,302.7,310.8,1275,55.0,25,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4571,L51750,L,302.8,310.9,1312,52.2,40,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4580,L51759,L,303.0,311.2,1374,48.2,65,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4597,L51776,L,303.0,311.2,1361,47.6,106,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4601,L51780,L,303.0,311.0,1359,44.2,115,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4602,M19461,M,303.0,311.1,1372,54.3,117,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4612,L51791,L,303.0,311.3,1365,56.2,146,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4619,M19478,M,303.0,311.3,1335,53.6,164,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4621,L51800,L,303.1,311.3,1336,52.6,172,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4622,L51801,L,303.0,311.2,1341,51.0,174,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4633,M19492,M,302.9,311.2,1330,53.7,200,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4643,L51822,L,303.2,311.4,1238,54.6,226,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4644,L51823,L,303.2,311.4,1324,54.2,228,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4647,L51826,L,303.3,311.4,1497,46.0,234,1,Tool Wear Failure,1,Tool Wear Failure
+4652,L51831,L,303.2,311.4,1349,51.1,9,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4662,L51841,L,303.3,311.3,1350,48.1,32,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4666,M19525,M,303.4,311.4,1307,54.0,44,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4670,M19529,M,303.3,311.5,1373,47.3,60,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4685,M19544,M,303.6,311.8,1421,44.8,101,1,No Failure,1,No Failure
+4703,L51882,L,303.6,311.8,1222,66.8,148,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4719,L51898,L,303.3,311.6,1337,56.8,187,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4721,M19580,M,303.4,311.7,1353,44.1,192,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4724,L51903,L,303.4,311.8,1366,50.9,200,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4728,M19587,M,303.4,311.8,1341,47.0,210,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4730,L51909,L,303.4,311.8,1306,61.0,215,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4732,L51911,L,303.3,311.6,1301,45.1,219,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4738,M19597,M,303.2,311.5,1336,58.2,2,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4740,L51919,L,303.2,311.4,1351,53.8,8,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4749,L51928,L,303.2,311.2,1363,46.7,29,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4756,L51935,L,303.4,311.7,1295,51.3,51,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4760,L51939,L,303.5,311.6,1361,46.5,62,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4762,H34175,H,303.7,311.9,1332,52.7,66,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4763,M19622,M,303.7,312.0,2663,11.4,71,1,Power Failure,1,Power Failure
+4769,L51948,L,303.6,312.0,1309,52.9,86,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4771,L51950,L,303.5,311.9,1344,49.3,93,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4779,H34192,H,303.6,312.2,1371,54.6,112,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4815,L51994,L,303.4,311.8,1401,53.0,208,1,Overstrain Failure,1,Overstrain Failure
+4817,L51996,L,303.4,312.0,1521,35.9,215,1,Tool Wear Failure,1,Tool Wear Failure
+4832,L52011,L,303.5,312.0,1366,54.5,30,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4834,L52013,L,303.4,311.9,1377,41.6,34,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4837,L52016,L,303.3,311.8,1315,62.0,42,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4841,L52020,L,303.4,311.9,1298,63.9,59,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4845,M19704,M,303.4,311.8,1316,50.9,69,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4852,L52031,L,303.7,312.1,1363,51.8,90,1,Heat Dissipation Failure,1,Heat Dissipation Failure
+4921,L52100,L,303.4,312.2,1337,69.4,52,1,Power Failure,1,Power Failure
+4937,L52116,L,303.5,312.4,1284,70.6,94,1,Power Failure,1,Power Failure
+4977,L52156,L,303.7,312.7,1359,56.8,194,1,Overstrain Failure,1,Overstrain Failure
+4985,L52164,L,303.8,313.1,1256,58.7,213,1,Overstrain Failure,1,Overstrain Failure
+4989,L52168,L,303.8,313.1,2497,13.0,5,1,Power Failure,1,Power Failure
+4998,M19857,M,303.6,312.8,2659,11.4,26,1,Power Failure,1,Power Failure
+5049,H34462,H,304.0,313.2,1271,68.6,161,1,Power Failure,1,Power Failure
+5062,L52241,L,304.0,312.9,1363,62.5,200,1,Overstrain Failure,1,Overstrain Failure
+5142,L52321,L,304.4,313.7,1509,35.0,205,1,Tool Wear Failure,1,Tool Wear Failure
+5220,L52399,L,303.8,313.0,1365,59.9,205,1,Overstrain Failure,1,Overstrain Failure
+5310,M20169,M,303.9,313.2,1422,48.0,215,1,Tool Wear Failure,1,Tool Wear Failure
+5335,M20194,M,303.4,312.6,2706,9.8,65,1,Power Failure,1,Power Failure
+5395,M20254,M,302.8,312.3,1262,70.5,234,1,Power Failure,1,Power Failure
+5400,H34813,H,302.8,312.4,1411,53.8,246,1,Overstrain Failure,1,Overstrain Failure
+5401,L52580,L,302.7,312.4,1477,46.3,251,1,Overstrain Failure,1,Overstrain Failure
+5402,M20261,M,302.6,312.3,1454,54.8,253,1,Tool Wear Failure,1,Tool Wear Failure
+5489,L52668,L,302.7,312.2,1450,52.1,213,1,Overstrain Failure,1,Overstrain Failure
+5491,L52670,L,302.6,312.1,1288,68.5,0,1,Power Failure,1,Power Failure
+5537,M20396,M,302.3,311.8,1363,54.0,119,1,No Failure,1,No Failure
+5616,M20475,M,303.0,312.2,1257,71.3,122,1,Power Failure,1,Power Failure
+5618,L52797,L,303.1,312.4,1404,61.5,127,1,Power Failure,1,Power Failure
+5707,L52886,L,302.4,311.9,1290,70.0,139,1,Power Failure,1,Power Failure
+5735,L52914,L,302.3,311.8,1369,56.2,208,1,Overstrain Failure,1,Overstrain Failure
+5910,H35323,H,300.7,310.2,1364,65.3,208,1,Power Failure,1,Power Failure
+5942,L53121,L,300.6,310.7,1438,48.5,78,1,No Failure,1,No Failure
+6000,M20859,M,300.4,310.2,1671,30.5,234,1,Tool Wear Failure,1,Tool Wear Failure
+6025,L53204,L,300.7,310.9,1356,65.3,66,1,Power Failure,1,Power Failure
+6079,L53258,L,300.8,310.7,1339,59.1,203,1,Overstrain Failure,1,Overstrain Failure
+6154,L53333,L,301.0,311.1,1236,64.4,177,1,Overstrain Failure,1,Overstrain Failure
+6160,L53339,L,301.0,311.0,1399,58.0,190,1,Overstrain Failure,1,Overstrain Failure
+6173,L53352,L,300.8,310.6,1577,37.9,227,1,Tool Wear Failure,1,Tool Wear Failure
+6179,L53358,L,301.1,310.9,1282,67.9,10,1,Power Failure,1,Power Failure
+6249,L53428,L,300.8,310.1,1405,61.2,189,1,Power Failure,1,Power Failure
+6256,L53435,L,301.0,310.5,1379,57.3,204,1,Overstrain Failure,1,Overstrain Failure
+6257,L53436,L,301.0,310.6,1493,37.8,206,1,Tool Wear Failure,1,Tool Wear Failure
+6341,H35754,H,300.5,309.9,1397,45.9,210,1,Tool Wear Failure,1,Tool Wear Failure
+6420,H35833,H,300.3,309.9,1394,46.7,210,1,Tool Wear Failure,1,Tool Wear Failure
+6479,L53658,L,300.5,309.8,1663,29.1,145,1,No Failure,1,No Failure
+6498,L53677,L,300.8,309.9,1312,65.3,192,1,Overstrain Failure,1,Overstrain Failure
+6526,L53705,L,301.1,310.4,1312,73.6,49,1,Power Failure,1,Power Failure
+6541,M21400,M,301.4,310.7,1368,63.7,92,1,Power Failure,1,Power Failure
+6619,M21478,M,301.6,310.6,1309,65.8,75,1,Power Failure,1,Power Failure
+6674,L53853,L,301.6,310.7,1380,51.8,216,1,Overstrain Failure,1,Overstrain Failure
+6679,M21538,M,301.5,310.7,1336,65.6,0,1,Power Failure,1,Power Failure
+6760,L53939,L,301.7,311.0,1441,44.3,208,1,Tool Wear Failure,1,Tool Wear Failure
+6800,M21659,M,301.1,310.7,2636,12.2,100,1,Power Failure,1,Power Failure
+6925,L54104,L,301.2,311.6,1461,52.9,208,1,Overstrain Failure,1,Overstrain Failure
+6933,L54112,L,300.8,311.4,1322,67.2,18,1,Power Failure,1,Power Failure
+6991,L54170,L,300.7,311.1,2478,13.4,170,1,Power Failure,1,Power Failure
+7012,L54191,L,300.5,310.5,2633,12.2,17,1,Power Failure,1,Power Failure
+7084,L54263,L,300.7,310.4,1416,61.8,209,1,Power Failure,1,Power Failure
+7088,L54267,L,300.6,310.3,1648,30.5,217,1,Tool Wear Failure,1,Tool Wear Failure
+7168,L54347,L,300.3,310.3,1362,60.3,206,1,Overstrain Failure,1,Overstrain Failure
+7281,L54460,L,299.9,310.2,1288,69.6,62,1,Power Failure,1,Power Failure
+7427,M22286,M,300.0,311.4,1692,29.0,216,1,Tool Wear Failure,1,Tool Wear Failure
+7510,L54689,L,300.6,311.9,1372,60.1,212,1,Overstrain Failure,1,Overstrain Failure
+7511,L54690,L,300.5,311.8,1524,38.9,214,1,Tool Wear Failure,1,Tool Wear Failure
+7537,L54716,L,300.1,311.3,2579,12.5,64,1,Power Failure,1,Power Failure
+7565,M22424,M,300.3,311.2,1381,65.2,136,1,Power Failure,1,Power Failure
+7570,L54749,L,300.2,311.0,1255,71.8,149,1,Power Failure,1,Power Failure
+7592,M22451,M,300.5,311.1,1296,61.3,202,1,Overstrain Failure,1,Overstrain Failure
+7594,L54773,L,300.5,311.2,1270,67.5,208,1,Overstrain Failure,1,Overstrain Failure
+7670,L54849,L,300.7,311.8,1336,58.4,189,1,Overstrain Failure,1,Overstrain Failure
+7688,M22547,M,300.7,311.7,2097,18.9,232,1,Tool Wear Failure,1,Tool Wear Failure
+7757,L54936,L,300.5,311.8,1368,57.9,191,1,Overstrain Failure,1,Overstrain Failure
+7760,L54939,L,300.4,311.8,1272,59.2,198,1,Overstrain Failure,1,Overstrain Failure
+7764,L54943,L,300.4,311.6,1200,76.6,3,1,Power Failure,1,Power Failure
+7850,M22709,M,300.3,311.7,1374,47.9,222,1,Tool Wear Failure,1,Tool Wear Failure
+7885,L55064,L,300.8,312.4,1465,59.1,91,1,Power Failure,1,Power Failure
+7927,L55106,L,300.7,311.9,1335,57.1,194,1,Overstrain Failure,1,Overstrain Failure
+7998,M22857,M,301.0,312.2,2710,9.7,143,1,Power Failure,1,Power Failure
+8027,L55206,L,300.7,311.9,1399,50.2,222,1,Overstrain Failure,1,Overstrain Failure
+8112,M22971,M,300.4,311.8,1553,33.1,209,1,Tool Wear Failure,1,Tool Wear Failure
+8193,L55372,L,299.6,310.9,1229,65.2,209,1,Overstrain Failure,1,Overstrain Failure
+8196,L55375,L,299.4,310.8,1376,53.9,215,1,Overstrain Failure,1,Overstrain Failure
+8200,L55379,L,299.2,310.7,1737,27.0,225,1,Tool Wear Failure,1,Tool Wear Failure
+8246,M23105,M,299.0,310.3,1303,68.6,111,1,Power Failure,1,Power Failure
+8308,M23167,M,298.7,310.1,1402,69.7,64,1,Power Failure,1,Power Failure
+8358,L55537,L,298.5,309.5,1385,46.3,203,1,Tool Wear Failure,1,Tool Wear Failure
+8399,L55578,L,298.5,309.7,2617,12.1,102,1,Power Failure,1,Power Failure
+8438,L55617,L,298.7,309.8,1181,65.9,203,1,Overstrain Failure,1,Overstrain Failure
+8507,L55686,L,298.4,309.6,1710,27.3,163,1,No Failure,1,No Failure
+8583,M23442,M,297.5,308.1,1334,72.0,151,1,Power Failure,1,Power Failure
+8609,L55788,L,297.4,308.4,1369,50.6,220,1,Overstrain Failure,1,Overstrain Failure
+8610,L55789,L,297.4,308.3,1475,40.5,222,1,Tool Wear Failure,1,Tool Wear Failure
+8691,L55870,L,297.1,308.5,1323,44.4,207,1,Tool Wear Failure,1,Tool Wear Failure
+8847,M23706,M,297.4,308.8,1325,62.4,204,1,Tool Wear Failure,1,Tool Wear Failure
+8927,M23786,M,297.3,308.3,1459,59.6,207,1,Power Failure,1,Power Failure
+9015,M23874,M,297.2,308.1,1340,61.3,207,1,Overstrain Failure,1,Overstrain Failure
+9016,L56195,L,297.2,308.1,1431,49.7,210,1,No Failure,1,No Failure
+9017,L56196,L,297.3,308.2,1396,52.7,212,1,Overstrain Failure,1,Overstrain Failure
+9019,L56198,L,297.3,308.1,1615,35.4,217,1,Tool Wear Failure,1,Tool Wear Failure
+9085,L56264,L,297.2,307.9,1326,75.4,172,1,Power Failure,1,Power Failure
+9175,L56354,L,297.8,308.9,1871,25.6,200,1,Tool Wear Failure,1,Tool Wear Failure
+9176,L56355,L,297.8,309.0,1403,64.2,0,1,Power Failure,1,Power Failure
+9415,L56594,L,298.1,308.6,1354,53.9,207,1,Overstrain Failure,1,Overstrain Failure
+9494,L56673,L,299.1,309.8,1398,55.4,217,1,Overstrain Failure,1,Overstrain Failure
+9577,L56756,L,299.6,310.7,1922,23.3,205,1,Tool Wear Failure,1,Tool Wear Failure
+9614,L56793,L,299.0,310.2,1377,62.5,92,1,Power Failure,1,Power Failure
+9654,L56833,L,299.0,309.9,1373,55.7,201,1,Overstrain Failure,1,Overstrain Failure
+9655,L56834,L,299.1,310.0,1367,56.3,203,1,Overstrain Failure,1,Overstrain Failure
+9660,L56839,L,298.9,309.8,1287,61.9,216,1,Overstrain Failure,1,Overstrain Failure
+9664,L56843,L,299.1,310.1,1435,48.8,229,1,Overstrain Failure,1,Overstrain Failure
+9665,L56844,L,299.1,310.2,1317,54.8,231,1,Overstrain Failure,1,Overstrain Failure
+9668,L56847,L,299.2,310.3,1352,48.9,238,1,Overstrain Failure,1,Overstrain Failure
+9759,L56938,L,298.6,309.8,2271,16.2,218,1,Tool Wear Failure,1,Tool Wear Failure
+9765,L56944,L,298.5,309.5,1294,66.7,12,1,Power Failure,1,Power Failure
+9823,L57002,L,298.5,309.4,1360,60.9,187,1,Overstrain Failure,1,Overstrain Failure
+9831,L57010,L,298.3,309.3,1337,56.1,206,1,Overstrain Failure,1,Overstrain Failure
+9975,L57154,L,298.6,308.2,1361,68.2,172,1,Power Failure,1,Power Failure
