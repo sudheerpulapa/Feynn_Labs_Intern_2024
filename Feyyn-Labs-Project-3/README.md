@@ -2,7 +2,7 @@
 
 ## Team Members:
 - **Pulapa Sudheer Chowdary**
-  - [GitHub Profile](link_to_github_profile)
+  - [GitHub Profile](https://github.com/sudheerpulapa/Feynn_Labs_Intern_2024/tree/main/Feyyn-Labs-Project-3)
   - **Contributions:** Pulapa Sudheer Chowdary contributed to developing the prototype, model building, and financial modeling.
 
 - **Kanishk Singh**
