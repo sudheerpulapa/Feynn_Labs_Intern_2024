@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+flask-app.zip
+flask-app/src/__pycache__
+flask-app/src/pipeline/__pycache__
+flask-app/venv
+flask-app/Recent_Logs
+flask-app/__pycache__
+flask-app-exe/__pycache__
+flask-app-exe/build
+flask-app-exe/dist
+flask-app-exe/venv
+flask-app-exe/run.spec
+Smart-Industrial-Predictive-Solutions.zip
+venv
+flask-app-exe/app.spec
