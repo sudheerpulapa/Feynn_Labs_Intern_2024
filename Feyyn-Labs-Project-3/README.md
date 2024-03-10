@@ -2,19 +2,19 @@
 
 ## Team Members:
 - **Pulapa Sudheer Chowdary**
-  - [GitHub Profile](https://github.com/sudheerpulapa/Feynn_Labs_Intern_2024/tree/main/Feyyn-Labs-Project-3)
+  - [GitHub](https://github.com/sudheerpulapa/Feynn_Labs_Intern_2024/tree/main/Feyyn-Labs-Project-3)
   - **Contributions:** Pulapa Sudheer Chowdary contributed to developing the prototype, model building, and financial modeling.
 
 - **Kanishk Singh**
-  - [GitHub Profile](link_to_github_profile)
+  - [GitHub](link_to_github_profile)
   - **Contributions:** Kanishk Singh contributed to data collection, model building, and prototype development.
 
 - **Deepak Singh**
-  - [GitHub Profile](link_to_github_profile)
+  - [GitHub](link_to_github_profile)
   - **Contributions:** Deepak Singh contributed to prototype selection, model building, and business model development.
 
 - **Chetana Punlik Lagshetti**
-  - [GitHub Profile](link_to_github_profile)
+  - [GitHub](link_to_github_profile)
   - **Contributions:** Chetana Punlik Lagshetti contributed to problem statement formulation, prototype development, and state-of-the-art enhancements.
 
 ## Abstract
