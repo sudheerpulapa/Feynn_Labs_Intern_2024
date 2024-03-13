@@ -6,15 +6,15 @@
   - **Contributions:** Developed the prototype, built machine learning models, and conducted financial modeling.
 
 - **Kanishk Singh**
-  - [GitHub](link_to_github_profile)
+  - [GitHub](https://github.com/KANGladiator/Feynn_labs_project-3)
   - **Contributions:** Collected data, contributed to model building, and assisted in prototype development.
 
 - **Deepak Singh**
-  - [GitHub](link_to_github_profile)
+  - [GitHub](https://github.com/DeepakPratapSingh/Machine-Health-Monitoring)
   - **Contributions:** Participated in prototype selection, model building, and business model development.
 
 - **Chetana Punlik Lagshetti**
-  - [GitHub](link_to_github_profile)
+  - [GitHub](https://github.com/chetanal23/Machine-Health-Monitoring-System)
   - **Contributions:** Formulated the problem statement, led prototype development, and worked on state-of-the-art enhancements.
 
 ## 📝 Abstract
